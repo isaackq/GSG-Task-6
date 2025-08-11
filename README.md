@@ -7,7 +7,7 @@ node -v               # ensure Node 16+
 npm start             # or: node app.js
 ```
 
-The server listens on **port 3000** (configurable via `PORT`).
+The server listens on **port 3000**
 
 ## Routes
 
